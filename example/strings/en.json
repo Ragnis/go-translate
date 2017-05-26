@@ -1,0 +1,7 @@
+{
+	"lang": "en",
+	"strings": {
+		"Greeting": "Hello, world!",
+		"GreetingWithName": "Hello, %s!"
+	}
+}

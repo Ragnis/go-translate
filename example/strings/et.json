@@ -1,0 +1,7 @@
+{
+	"lang": "et",
+	"strings": {
+		"Greeting": "Tere, maailm!",
+		"GreetingWithName": "Tere, %s!"
+	}
+}
